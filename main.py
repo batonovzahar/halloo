@@ -66,7 +66,7 @@ def get_weather(latitude, longitude):
 # --- Использование скрипта ---
 
 if __name__ == "__main__":
-    # Координаты для gf, Казахстан (пример)
+    # Координаты для gref, Казахстан (пример)
     almaty_lat = 43.2567
     almaty_lon = 76.9286
 
